@@ -11,13 +11,13 @@ What Makes This Special
 
 This isn't just another AI project—it's a comprehensive ecosystem designed to push the boundaries of what's possible:
 
-- Knowledge Graph Engine**: Revolutionary semantic understanding and relationship mapping
+- Knowledge Graph Engine: Revolutionary semantic understanding and relationship mapping
 
-- Advanced Reporting**: Intelligent insights that transform data into actionable wisdom 
+- Advanced Reporting: Intelligent insights that transform data into actionable wisdom 
 
-- Dynamic Visualization**: Bringing complex data to life through intuitive visual storytelling
+- Dynamic Visualization: Bringing complex data to life through intuitive visual storytelling
 
-- Enterprise Attention Engine**: Cutting-edge focus mechanisms for large-scale AI applications
+- Enterprise Attention Engine: Cutting-edge focus mechanisms for large-scale AI applications
 
   Our Mission
 
