@@ -63,7 +63,7 @@ Every commit, every pull request, every issue you report brings us closer to a w
 
 Built with passion and precision by developers who believe in the power of open source to change the world. Special recognition to every contributor who has helped shape this vision into reality.
 
----
+
 
   Created by J.K Nelson
   
@@ -73,3 +73,5 @@ Built with passion and precision by developers who believe in the power of open 
   
 
  "The best way to predict the future is to invent it. The best way to invent it is together."
+
+ (Documentation and Deployment Guides are included in the Repo)
